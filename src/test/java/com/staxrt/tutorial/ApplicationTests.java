@@ -26,9 +26,7 @@ public class ApplicationTests {
 		return "http://localhost:" + port;
 	}
 
-	@Test
-	public void contextLoads() {
-	}
+	
 
 	@Test
 	public void testGetAllUsers() {
